@@ -1,0 +1,33 @@
+@media only screen and (min-width:0px) and (max-width:768px) {
+    
+    .container {
+        width:700px;
+        height:400px;
+        margin-top:30%;
+    }
+
+    .lista table {
+        text-align: center;
+        margin-top:-420px;
+        width:90%;
+    }
+
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px) {
+
+    .container {
+        width:650px;
+        height:450px;
+        margin-top:20%;
+    }
+
+    .lista table {
+        width:700px;
+        text-align: center;
+        margin-top:-420px;
+        
+    }
+
+}
+
